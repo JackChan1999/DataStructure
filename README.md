@@ -1,3 +1,7 @@
+https://www.gitbook.com/book/alleniverson/data-structure-and-algorithms/details
+
+![](https://alleniverson.gitbooks.io/data-structure-and-algorithms/content/assets/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.png)
+
 * 第1章 线性结构
   * [数组和链表](线性结构/数组和链表.md)
   * [栈](线性结构/栈.md)
